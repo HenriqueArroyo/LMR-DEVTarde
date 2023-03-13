@@ -1,0 +1,53 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,113,121,1) 35%, rgba(0,212,255,1) 100%);}
+
+.Escrita1 h1 {
+    color: rgb(0, 0, 0);
+
+}
+
+.Login label {
+    color:  rgb(0, 102, 150);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color:  rgb(0, 102, 150);
+    border-color: black;
+}
+
+.menu {
+    background-color: azure;
+    width: 400px;
+    height: 650px;
+}
+
+
+.voltar {
+    width: 120px;
+    height: 80px;
+    position: absolute;
+    left: 1800px;
+    bottom: 20px;
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+
+.voltar {
+	background: rgb(86, 193, 255);
+	color: #fff;
+	border: 1px solid #000000;
+	border-radius: 15px;
+	text-shadow: none;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.voltar:hover {
+	background: #02325a;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	text-shadow: none;
+    font-size: larger;
+}

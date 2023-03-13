@@ -1,0 +1,19 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,113,121,1) 35%, rgba(0,212,255,1) 100%);}
+
+.menu {
+    background-color: azure;
+    width: 1200px;
+    height: 150px;
+}
+
+.iframeclass {
+    background-color: transparent;
+}
+
+.links {
+    font-size: 50px;
+    margin-right: 70px;
+    color: black;
+}

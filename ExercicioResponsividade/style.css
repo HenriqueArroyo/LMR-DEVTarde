@@ -1,0 +1,63 @@
+body {
+    background: rgb(13,76,134);
+    background: linear-gradient(90deg, rgba(13,76,134,1) 0%, rgba(1,85,133,1) 46%, rgba(3,54,154,1) 87%);}
+
+.cabecalho img {
+  float: left;
+  width: 150px;
+  height: 60px;
+}
+
+.cabecalho a {
+    float: right;
+    margin-right: 30px;
+    font-size: xx-large;
+    color: rgb(56, 111, 249);
+    margin-top: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.cabecalho {
+    background-color: azure;
+    width: 100%;
+    height: 60px;
+}
+
+.banner img {
+   margin-left: 25% ;
+   margin-top: 1%;
+}
+
+.banner {
+    background: rgb(0,49,93);
+    background: linear-gradient(90deg, rgba(0,49,93,1) 0%, rgba(1,85,133,1) 46%, rgba(9,54,142,1) 87%);
+    width: 100%;
+    height: 650px;
+}
+
+.banner h2 {
+    color: azure;
+    font-size: 40px;
+    
+}
+
+.Projetosh1 {
+   color: aliceblue;
+   margin-left: 200px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Projetosimg {
+    width: 500px;
+    height: 400px;
+opacity: 45%;
+margin-left: 100px;
+float: left;
+}
+
+.Projetosh2 {
+    color: aliceblue;
+    float: right;
+    
+}
+
